@@ -15,9 +15,7 @@ public class Main {
             grandTotal = initialAccount + replenishmentAmount;
         }
 
-        System.out.println("Итоговый счет: " + grandTotal );
+        System.out.println("Итоговый счет: " + grandTotal);
         System.out.println("Бонусов: " + bonus);
-
-
     }
 }
